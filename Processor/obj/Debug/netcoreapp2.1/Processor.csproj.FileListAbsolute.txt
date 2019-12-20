@@ -1,0 +1,10 @@
+D:\PROGRAMMING\.NET\Processor\Processor\bin\Debug\netcoreapp2.1\Processor.deps.json
+D:\PROGRAMMING\.NET\Processor\Processor\bin\Debug\netcoreapp2.1\Processor.runtimeconfig.json
+D:\PROGRAMMING\.NET\Processor\Processor\bin\Debug\netcoreapp2.1\Processor.runtimeconfig.dev.json
+D:\PROGRAMMING\.NET\Processor\Processor\bin\Debug\netcoreapp2.1\Processor.dll
+D:\PROGRAMMING\.NET\Processor\Processor\bin\Debug\netcoreapp2.1\Processor.pdb
+D:\PROGRAMMING\.NET\Processor\Processor\obj\Debug\netcoreapp2.1\Processor.csprojAssemblyReference.cache
+D:\PROGRAMMING\.NET\Processor\Processor\obj\Debug\netcoreapp2.1\Processor.AssemblyInfoInputs.cache
+D:\PROGRAMMING\.NET\Processor\Processor\obj\Debug\netcoreapp2.1\Processor.AssemblyInfo.cs
+D:\PROGRAMMING\.NET\Processor\Processor\obj\Debug\netcoreapp2.1\Processor.dll
+D:\PROGRAMMING\.NET\Processor\Processor\obj\Debug\netcoreapp2.1\Processor.pdb
