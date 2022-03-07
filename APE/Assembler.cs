@@ -128,8 +128,11 @@ namespace Processor
 
 		public Assembler FillUntil(int end)
 		{
-			Array.Fill<byte>(_memory, 0, _offset, end - _offset);
-			_offset = end;
+			while(_offset < end)
+			{
+				_memory[_offset] = 0;
+				_offset++;
+			}
 
 			Console.Write("\r\n");
 			Console.Out.Flush();

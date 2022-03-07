@@ -28,7 +28,7 @@ namespace Processor
 
 			//	Продолжаем пока не произойдёт обращение за границы оперативной памяти
 			//	Пожалуй это не лучшее условие остановки, но пока и так сойдёт
-			int count = 0;
+			// int count = 0;
 			Console.WriteLine("Start execution");
 			Thread.Sleep(500);
 			while (_memory.Interrupt == 0)
