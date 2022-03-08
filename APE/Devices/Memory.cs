@@ -5,7 +5,7 @@ namespace Processor
 		public int    Capacity { get; protected set; }
 		public byte[] Storage  { get; protected set; }
 
-		public Memory(int capacity = 1024 * 1024 * 128)
+		public Memory(int capacity = 1024 * 1024 * 16)
 		{
 			Capacity = capacity;
 			if (capacity >= 0)
